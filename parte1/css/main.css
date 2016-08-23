@@ -1,0 +1,17 @@
+.box-yellow {
+	width: 180px;
+	height: 120px;
+	background-color: yellow;
+}
+
+.box-blue {
+	width: 180px;
+	height: 120px;
+	background-color: blue;
+}
+
+.box-red {
+	width: 180px;
+	height: 120px;
+	background-color: red;
+}
