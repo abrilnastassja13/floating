@@ -1,3 +1,7 @@
+.box {
+	border: solid grey 1px;
+}
+
 .box-yellow {
 	width: 180px;
 	height: 120px;

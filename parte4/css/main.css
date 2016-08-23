@@ -1,1 +1,31 @@
-/* Pon tu código css aqui */
+.box {
+	border: solid grey 1px;
+}
+
+.box-yellow {
+	width: 180px;
+	height: 120px;
+	background-color: yellow;
+	float: right;
+}
+
+.box-blue {
+	width: 180px;
+	height: 120px;
+	background-color: blue;
+	float: right;
+}
+
+.box-red {
+	width: 180px;
+	height: 120px;
+	background-color: red;
+	float: right;
+}
+
+.box:after {
+	content: "";
+	display: block;
+	clear: both;
+
+}
